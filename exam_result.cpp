@@ -13,7 +13,7 @@ int main(){
         cout<<"Invalid marks"<<endl;
         cout<<"Please recheck your marks and re-enter yours marks out of 100"<<endl;
     }
-    else if((marks>=90) && (marks<=100)){
+    else if(marks>=90){
         cout<<"Congratulations! you have obtained an 'A' GRADE in your exam"<<endl;
         if (marks==100){
             cout<<"WELL DONE ON SECURING A CENTUM ! CHEERS !"<<endl;
