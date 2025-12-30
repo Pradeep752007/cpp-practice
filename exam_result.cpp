@@ -1,3 +1,4 @@
+// This program gets the marks obtained as input and generates the grade card 
 #include<iostream>
 
 using namespace std;
