@@ -9,6 +9,9 @@ int main(){
     cout<<"The input marks should be out of 100"<<endl;
     cout<<"Tell me your marks: ";
     cin>>marks;
+
+    // Selection control structure: If-else-if-else ladder 
+    
     if ((marks<0) || (marks>100)){
         cout<<"Invalid marks"<<endl;
         cout<<"Please recheck your marks and re-enter yours marks out of 100"<<endl;
