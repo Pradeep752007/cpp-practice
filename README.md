@@ -1,5 +1,6 @@
 # cpp-practice
-This repository contains beginner-friendly C++ programs covering loops, conditionals, and real-world examples.
+This repository contains a collection of beginner-friendly C++ programs created to strengthen core programming fundamentals.
+This repository focuses on logic building, clean syntax, and correct use of basic C++ constructs rather than advanced features.
 ## Files in this repository 
 - input_output.cpp
 - exam_result.cpp
