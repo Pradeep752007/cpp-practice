@@ -5,4 +5,5 @@ This repository contains beginner-friendly C++ programs covering loops, conditio
 - exam_result.cpp
 - multiplication_table.cpp
 - atm_pin_verification.cpp
+- electricity_bill_generator.cpp
 
