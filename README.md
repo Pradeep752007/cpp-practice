@@ -43,10 +43,10 @@ The codes are written concept‑wise to build a strong foundation in C++.
 
 🎯 Purpose of This Repository
 
-To practice and understand core C++ concepts
-To improve logical thinking and problem‑solving skills
-To build a strong foundation for advanced C++ topics
-To maintain a well‑structured learning record on GitHub
+- To practice and understand core C++ concepts
+- To improve logical thinking and problem‑solving skills
+- To build a strong foundation for advanced C++ topics
+- To maintain a well‑structured learning record on GitHub
 
 🛠️ Language & Tools
 Language: C++
