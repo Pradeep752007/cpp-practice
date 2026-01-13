@@ -6,10 +6,7 @@ The codes are written concept‑wise to build a strong foundation in C++.
 
 🔹 Basics
 - input_output.cpp
-- exam_result.cpp
 - multiplication_table.cpp
-- atm_pin_verification.cpp
-- electricity_bill_generator.cpp
 
 🔹 Arrays
 - Array declaration and initialization
