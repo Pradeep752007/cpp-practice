@@ -60,5 +60,5 @@ STL and advanced topics: ⏳ Planned
 
 👤 Author
 
-Pradeep S
+Pradeep S,
 This repository will be updated regularly as I continue learning C++.
