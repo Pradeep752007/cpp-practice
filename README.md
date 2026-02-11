@@ -18,11 +18,6 @@ The codes are written concept‑wise to build a strong foundation in C++.
 - Reversing an array
 - Basic array operations
 
-🔹 Pointers
-- Pointer basics
-- Address and dereferencing
-- Swapping numbers using pointers (call by reference)
-
 🔹 Reference Variables
 - Reference variable basics
 - Swapping numbers using C++ reference variables
