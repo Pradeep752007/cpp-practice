@@ -7,7 +7,7 @@ The codes are written concept‑wise to build a strong foundation in C++.
 🔹 Basics
 - input_output.cpp
 - multiplication_table.cpp
-- fibonacci/
+- fibonacci series/
 -- fibonacci_iterative.cpp
 -- fibonacci_recursive.cpp
 
