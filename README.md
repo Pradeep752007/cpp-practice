@@ -18,10 +18,6 @@ The codes are written concept‑wise to build a strong foundation in C++.
 - Reversing an array
 - Basic array operations
 
-🔹 Reference Variables
-- Reference variable basics
-- Swapping numbers using C++ reference variables
-
 🔹 Structures (struct)
 - Defining structures
 - Accessing structure members
