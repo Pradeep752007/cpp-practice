@@ -8,8 +8,8 @@ The codes are written concept‑wise to build a strong foundation in C++.
 - input_output.cpp
 - multiplication_table.cpp
 - factorial/
--- factorial_iterative.cpp
 -- factorial_recursive.cpp
+-- factorial_iterative.cpp
 
 🔹 Arrays
 - Array declaration and initialization
